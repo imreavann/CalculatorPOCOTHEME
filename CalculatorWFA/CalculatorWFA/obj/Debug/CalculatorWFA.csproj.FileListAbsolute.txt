@@ -1,0 +1,10 @@
+C:\Users\imrea\source\repos\CalculatorWFA\CalculatorWFA\bin\Debug\CalculatorWFA.exe.config
+C:\Users\imrea\source\repos\CalculatorWFA\CalculatorWFA\bin\Debug\CalculatorWFA.exe
+C:\Users\imrea\source\repos\CalculatorWFA\CalculatorWFA\bin\Debug\CalculatorWFA.pdb
+C:\Users\imrea\source\repos\CalculatorWFA\CalculatorWFA\obj\Debug\CalculatorWFA.csproj.AssemblyReference.cache
+C:\Users\imrea\source\repos\CalculatorWFA\CalculatorWFA\obj\Debug\CalculatorWFA.Properties.Resources.resources
+C:\Users\imrea\source\repos\CalculatorWFA\CalculatorWFA\obj\Debug\CalculatorWFA.csproj.GenerateResource.cache
+C:\Users\imrea\source\repos\CalculatorWFA\CalculatorWFA\obj\Debug\CalculatorWFA.csproj.CoreCompileInputs.cache
+C:\Users\imrea\source\repos\CalculatorWFA\CalculatorWFA\obj\Debug\CalculatorWFA.exe
+C:\Users\imrea\source\repos\CalculatorWFA\CalculatorWFA\obj\Debug\CalculatorWFA.pdb
+C:\Users\imrea\source\repos\CalculatorWFA\CalculatorWFA\obj\Debug\CalculatorWFA.Form1.resources
