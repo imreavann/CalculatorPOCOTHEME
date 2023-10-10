@@ -22,8 +22,6 @@ namespace CalculatorWFA
         public Form1()
         {
             InitializeComponent();
-
-            player.Play();
         }
 
         private void ButtonAll(object sender, EventArgs e)
